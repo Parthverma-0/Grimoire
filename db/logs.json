@@ -1,0 +1,40 @@
+{
+  "activeProject": "GlowLife",
+  "projects": [
+    {
+      "id": 1782968822456,
+      "name": "grimoire",
+      "created": "2026-07-02",
+      "logs": [
+        {
+          "id": 1782971215332,
+          "entry": "phase 1 completed ",
+          "timeStamp": "2026-07-02T05:46:55.332Z"
+        },
+        {
+          "id": 1782971489675,
+          "entry": "phase 2 started ",
+          "timeStamp": "2026-07-02T05:51:29.675Z"
+        }
+      ]
+    },
+    {
+      "id": 1782968833099,
+      "name": "openDrill",
+      "created": "2026-07-02",
+      "logs": []
+    },
+    {
+      "id": 1782972257349,
+      "name": "GlowLife",
+      "created": "2026-07-02",
+      "logs": [
+        {
+          "id": 1782972281654,
+          "entry": "application initialized ",
+          "timeStamp": "2026-07-02T06:04:41.654Z"
+        }
+      ]
+    }
+  ]
+}

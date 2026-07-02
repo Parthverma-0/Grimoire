@@ -1,0 +1,16 @@
+{
+  "name": "grimoire",
+  "version": "1.0.0",
+  "description": "",
+  "main": "grimoire.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin":{
+    "grimoire":"./grimoire.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
